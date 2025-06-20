@@ -1,7 +1,11 @@
 Nombres= input( "Escribe tu nombre")
 Apellidos= input ("Escribe tus apellidos")
 Nombre_completo= Nombres+Apellidos
-print(Nombre_completo)
 Pais=input("Escribe tu país de origen")
 Ciudad=input("Escribe una ciudad")
-Edad=input
+Edad=input('Escribe tu edad')
+print('Tu ficha es:')
+print(Nombre_completo)
+print(Pais)
+print(Ciudad)
+print(Edad)
